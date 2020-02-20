@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+d:\Users\Admin\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
